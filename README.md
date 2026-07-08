@@ -6,3 +6,4 @@
 
 1. `contest1-task-e.cpp` — Основы C++ [1]
 2. `contest2-task-g.cpp` — Основы C++ [2]
+3. `contest3-task-e.cpp` — Динамическое программирование [3]
