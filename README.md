@@ -5,3 +5,4 @@
 ## Список задач
 
 1. `contest1-task-e.cpp` — Основы C++ [1]
+2. `contest2-task-g.cpp` — Основы C++ [2]
